@@ -2,7 +2,6 @@ import hostel from "../assets/hostel.png";
 function Project() {
   return (
     <div className="project-container">
-
       <div className="project-grid">
         {/* add projects  */}
         <div className="project-card">
@@ -20,13 +19,13 @@ function Project() {
 
           <div className="project-buttons">
             <a
-              href="https://github.com/njat8702/Reactproject.git"
-              target="_blank"
-            >
+              href="https://github.com/njat8702/hostel-management-system.git"
+              target="_blank">
               <button>GitHub</button>
             </a>
-
-            <button>Live Demo</button>
+            <a href="https://hostel-management.vercel.app" target="_blank">
+              <button>Live Demo</button>
+            </a>
           </div>
         </div>
       </div>
