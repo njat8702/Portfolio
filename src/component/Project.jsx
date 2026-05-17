@@ -23,7 +23,7 @@ function Project() {
               target="_blank">
               <button>GitHub</button>
             </a>
-            <a href="https://hostel-management.vercel.app" target="_blank">
+            <a href="https://hostel-management-system-eight-tan.vercel.app/" target="_blank">
               <button>Live Demo</button>
             </a>
           </div>
